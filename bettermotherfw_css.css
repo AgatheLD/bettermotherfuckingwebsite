@@ -1,0 +1,13 @@
+body
+{
+                background-color: #EEEEEE;
+                color: #444444;
+                line-height: 1.4;
+                margin-left: 350px;
+                margin-right: 350px;
+                text-align: justify;
+}
+p
+{
+                font-size: 16px;
+}
